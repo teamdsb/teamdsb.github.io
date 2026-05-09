@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vite/
+
+.DS_Store
+*.local
+.env
+.env.*
+
+.agents/skills/
+.agents/cache/
+skills-lock.json
